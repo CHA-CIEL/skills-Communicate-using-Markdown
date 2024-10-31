@@ -10,3 +10,14 @@ j'ai ajouté les en-têtes
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 J'ai ajouté l'image
+
+```
+$ git init
+Initialisation du dépôt Git vide dans /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Bonjour tout le monde !";
+```
+
+J'ai ajouté les blocs de codes
