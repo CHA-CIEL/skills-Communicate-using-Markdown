@@ -21,3 +21,9 @@ var myVar = "Bonjour tout le monde !";
 ```
 
 J'ai ajouté les blocs de codes
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+J'ai ajouté la liste
